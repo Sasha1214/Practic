@@ -1,0 +1,7 @@
+﻿  laba4.cpp
+  XO.cpp
+C:\Users\Админ\Desktop\Учеба\Программирование\Lab4\laba4\laba4.cpp(10,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Админ\Desktop\Учеба\Программирование\Lab4\laba4\XO.cpp(8,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\Админ\Desktop\Учеба\Программирование\Lab4\laba4\XO.cpp(249,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba4.vcxproj -> C:\Users\Админ\Desktop\Учеба\Программирование\Lab4\x64\Debug\laba4.exe
