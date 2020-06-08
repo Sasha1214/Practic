@@ -211,5 +211,6 @@ DoorStatus LockController::lockDoor()
     return latch->close();
 }
 ```
+Ссылка на папку с итоговым проектом: https://github.com/Sasha1214/Practic/tree/master/laba9/TestWork
 
 #### Вывод: в ходе лабораторной работы я познакомилась с Google Test и Google Mock Framework, изучила базовые понятия относящийся к тестированию кода, научилась тестировать классы в среде разработки Qt Creator.
